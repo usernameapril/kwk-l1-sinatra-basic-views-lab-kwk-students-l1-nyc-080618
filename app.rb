@@ -5,7 +5,7 @@ class App < Sinatra::Base
     erb :index
   end
   get '/marnie' do
-    erb :marnie
+    erb :april
 end
 end
 
