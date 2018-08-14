@@ -6,7 +6,7 @@ class App < Sinatra::Base
   end
   
   
-  get '/' do
+  get '/april' do
     erb :april
 end
 end
